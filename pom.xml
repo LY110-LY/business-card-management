@@ -17,7 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <mysqlVersion>5.1.45</mysqlVersion>		
+    <mysqlVersion>8.0.16</mysqlVersion>		
 	<strutsVersion>2.5.14.1</strutsVersion>
 	<springVersion>4.1.6.RELEASE</springVersion>
   </properties>
